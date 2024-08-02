@@ -1,0 +1,12 @@
+[
+    {
+        "h3": "HELLO",
+        "h1": "I am a",
+        "h3-text": "I'm a",
+        "p": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit excepturi temporibus ipsam accusamus doloribus minima ad mollitia deleniti cumque in?",
+        "class": "custom-section",
+        "style": {
+            "color": "#333"
+        }
+    }
+]
